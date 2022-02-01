@@ -1,0 +1,10 @@
+.scf-success{
+    background-color: lightgreen;
+    padding: 8px 15px;
+    margin: 15px 0;
+    border-radius: 4px;
+    border: 1px solid green;
+}
+.scf-must{
+    color: rgb(255, 94, 0);
+}

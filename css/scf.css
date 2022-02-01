@@ -1,0 +1,31 @@
+form.scf-form label{
+    display: block;
+    font-size: 20px;
+    font-family: inherit;
+}
+form.scf-form input, form.scf-form textarea{
+    padding: 10px 15px;
+    font-size: 18px;
+    width: 100%;
+    max-width: 100%;
+    font-family: inherit;
+    border: 1px solid #777;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+.scf-success{
+    background-color: lightgreen;
+    padding: 8px;
+    margin: 15px 0;
+    border-radius: 4px;
+    border: 1px solid green;
+}
+.scf-error{
+    background-color: rgb(255, 94, 0);;
+    padding: 8px 15px;
+    margin: 15px 0;
+    border-radius: 4px;
+    border: 1px solid red;
+    color: #fff;
+}
